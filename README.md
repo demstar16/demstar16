@@ -33,15 +33,20 @@ I am a 20 year old Software Engineering and Computer Science Student learning th
 <!-- Social badges section -->
 <p align="left">
   <a href="https://www.youtube.com/@dsons?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSJQPk15yVusQvi6TX8MEQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCSJQPk15yVusQvi6TX8MEQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+  </a> 
   <a href="https://www.youtube.com/@dsons">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCSJQPk15yVusQvi6TX8MEQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCCSJQPk15yVusQvi6TX8MEQ?color=red&logo=YouTube&style=for-the-badge"/>
+  </a> 
   <a href="https://github.com/demstar16?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/demstar16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/demstar16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
   <a href="https://github.com/demstar16?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/demstar16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/demstar16?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
   <a href="https://www.twitch.tv/d_sons">
-    <img alt="twitch-status" title="Check out the Twitch" src="https://img.shields.io/twitch/status/d_sons?color=%239146FF&logo=Twitch&logoColor=white&style=for-the-badge"></a>
+    <img alt="twitch-status" title="Check out the Twitch" src="https://img.shields.io/twitch/status/d_sons?color=%239146FF&logo=Twitch&logoColor=white&style=for-the-badge">
+  </a>
 </p>
    
 ---
