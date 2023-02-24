@@ -3,7 +3,7 @@
 **`Software Engineer/Computer Science Student & Content Creator`**
 
 <!-- Bio -->
-I am a 20 year old Software Engineering and Computer Science Student learning the wonders of computers and loving every seg fault along the way. I am loving the community and diving into projects with people to develop my skills. I create content over on youtube and also stream on twitch if you are interested in watching.
+I am a 21 year old Software Engineering and Computer Science Student learning the wonders of computers and loving every seg fault along the way. I am loving the community and diving into projects with people to develop my skills. I create content over on youtube and also stream on twitch if you are interested in watching.
 
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools
@@ -19,10 +19,10 @@ I am a 20 year old Software Engineering and Computer Science Student learning th
 <img align="left" alt="Javascript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="unity" width="30px" style="padding-right:30px;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" />
 <img align="left" alt="git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="raspberry pi" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+
 <img align="left" alt="Matlab" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+
 
 <br />
 
