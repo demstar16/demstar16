@@ -22,10 +22,13 @@ I am a 21 year old Software Engineering and Computer Science Student learning th
 <img align="left" alt="typescript" width="30px" style="padding-right:30px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="nodeJS" width="30px" style="padding-right:30px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
-
-
 <br />
-
+<br />
+<br />
+<br />
+<p align="center">
+     <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
+</p>
 # 
 <!-- Social badges section -->
 <!-- 
