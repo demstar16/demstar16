@@ -26,7 +26,7 @@ I am a 21 year old Software Engineering and Computer Science Student learning th
 <br />
 <br />
 <br />
-<p align="center">
+<p align="left">
      <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
 </p>
 # 
