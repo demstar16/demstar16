@@ -3,7 +3,7 @@
 **`Software Engineer/Computer Science Student & Content Creator`**
 
 <!-- Bio -->
-I am a 21 year old Software Engineering and Computer Science Student learning the wonders of computers and loving every seg fault along the way. I am loving the community and diving into projects with people to develop my skills. I create content over on youtube and also stream on twitch if you are interested in watching.
+I am a 21 year old graduate of UWA. I majored in Software Engineering and Computer Science Student, and learnt the wonders of computers. I am loving the community and diving into projects with people to develop my skills. I am currently into game development and full stack web development. Particularly getting my hands dirty with Django and LOVE2D.
 
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools
