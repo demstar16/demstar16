@@ -5,7 +5,7 @@
 <!-- Bio -->
 I am a 21 year old graduate of UWA. I majored in Software Engineering and Computer Science, and learnt about the wonders of computers. I am loving the community and diving into projects with people to use my skills and further develop them. I am currently interested in game development and full stack web development. Particularly getting my hands dirty with Django and LOVE2D.
 
-To get more of an idea about me as a developer check out my <a href="https://d-sons.com">website</a>.
+To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).
 
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools
@@ -33,6 +33,6 @@ To get more of an idea about me as a developer check out my <a href="https://d-s
 <br>
 <br>
 <br>
-<p align="center">
+<p align="center" style="margin-top:40px;">
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
 </p>
