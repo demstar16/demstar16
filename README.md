@@ -3,7 +3,7 @@
 **`Software Engineer/Computer Science Student & Content Creator`**
 
 <!-- Bio -->
-I am a 21 year old graduate of UWA. I majored in Software Engineering and Computer Science Student, and learnt the wonders of computers. I am loving the community and diving into projects with people to develop my skills. I am currently into game development and full stack web development. Particularly getting my hands dirty with Django and LOVE2D.
+I am a 21 year old graduate of UWA. I majored in Software Engineering and Computer Science Student, and learnt the wonders of computers. I am loving the community and diving into projects with people to use my skills and further develop them. I am currently interested in game development and full stack web development. Particularly getting my hands dirty with Django and LOVE2D.
 
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools
