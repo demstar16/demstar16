@@ -23,3 +23,4 @@ To get more of an idea about me as a developer check out my [website](https://ww
 <img align="left" alt="Rust" style="padding-right:30px; width:30px; height:30px;" src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default"/>
 <img align="left" alt="SQL" style="padding-right:30px; width:30px; height:30px;" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"/>
 <img align="left" alt="ElectronJS" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/>
+<img align="left" alt="React" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
