@@ -5,8 +5,8 @@
 <!-- Bio -->
 I am 22 year old passionate Softawre Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
 
-To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).
-
+To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).  
+I also have some more projects that I've built through work which I am happy (and allowed) to share over on my other [account](https://github.com/dempseyt).
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools of Familiarity
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/hal1PgQLBcgo3zcQQYtiz_ydmTsNkJXQp0CWmPklOc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhc2Ny/aXB0LWpzLWljb24t/NTEyeDUxMi1xM2ln/d2xuNi5wbmc"/>
