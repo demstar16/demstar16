@@ -3,24 +3,17 @@
 **`Software Engineer/Computer Science Graduate`**
 
 <!-- Bio -->
-I am a 21 year old graduate of UWA. I majored in Software Engineering and Computer Science, and learnt about the wonders of computers. I am loving the community and diving into projects with people to use my skills and further develop them. I am currently interested in game development and full stack web development.
+I am 22 year old passionate Softawre Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
 
 To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).
 
 <!-- Development Tool and Language Icons -->
-### ⚒️ Languages and Tools
-<img align="left" alt="Python" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Java" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Javascript" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="typescript" style="padding-right:30px; width:30px; height:30px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
-<img align="left" alt="Lua" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>
-<img align="left" alt="Django" style="padding-right:30px; width:30px; height:30px;" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/django-1.png"/>
-<img align="left" alt="flask" style="padding-right:30px; width:30px; height:30px;" src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp"/>
-<img align="left" alt="nodeJS" style="padding-right:30px; width:30px; height:30px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
-<img align="left" alt="Rust" style="padding-right:30px; width:30px; height:30px;" src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default"/>
-<img align="left" alt="SQL" style="padding-right:30px; width:30px; height:30px;" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png"/>
-<img align="left" alt="ElectronJS" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png"/>
-<img align="left" alt="React" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+### ⚒️ Languages and Tools of Familiarity
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/hal1PgQLBcgo3zcQQYtiz_ydmTsNkJXQp0CWmPklOc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhc2Ny/aXB0LWpzLWljb24t/NTEyeDUxMi1xM2ln/d2xuNi5wbmc"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/MD4jvIqyGS1_OGlLM9kgOJLw1Yd0ShQwj3kYsbtgW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/CfgR-acI4VmrQjeAjP2B-GUnlRxxA7gE6NE31afksik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MzA5YmNlZjEw/MTRjMGI1ZTRhOWEu/cG5n"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/eyr0SJnljR8jkHj9vJTdU0dx9FObWtxviui2GtJAvl4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aDM1L3N0eWxlcy9j/b21tdW5pdHlJY29u/X2Zjbjh4eHY5N3Vp/MTEucG5n"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/7tOkuSADZSvs22p8AUqtMA8U-MXbwUOnMdcZYogTAuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9iYXNoLWlj/b24tMjI0eDI1Ni1x/bzRhN2V4Ni5wbmc"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/Ac_X7ir_ddS8x291FI47WNRmp1Ss9wKVp-ivurt7x3w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtaWNv/bi01MTJ4NTEyLTR2/MmY1NWZuLnBuZw"/>
