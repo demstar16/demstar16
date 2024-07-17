@@ -9,6 +9,8 @@ To get more of an idea about me as a developer check out my [website](https://ww
 I also have some more projects that I've built through work which I am happy (and allowed) to share over on my other [account](https://github.com/dempseyt).
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools of Familiarity
+I have used a wide variety of different languages and frameworks, but these are what I have been using the most as of late.  
+
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/hal1PgQLBcgo3zcQQYtiz_ydmTsNkJXQp0CWmPklOc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhc2Ny/aXB0LWpzLWljb24t/NTEyeDUxMi1xM2ln/d2xuNi5wbmc"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/MD4jvIqyGS1_OGlLM9kgOJLw1Yd0ShQwj3kYsbtgW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
@@ -17,3 +19,4 @@ I also have some more projects that I've built through work which I am happy (an
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/7tOkuSADZSvs22p8AUqtMA8U-MXbwUOnMdcZYogTAuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9iYXNoLWlj/b24tMjI0eDI1Ni1x/bzRhN2V4Ni5wbmc"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/Ac_X7ir_ddS8x291FI47WNRmp1Ss9wKVp-ivurt7x3w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtaWNv/bi01MTJ4NTEyLTR2/MmY1NWZuLnBuZw"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
