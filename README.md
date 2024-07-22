@@ -1,6 +1,6 @@
 # 👨‍💻 Dempsey Thompson 
 
-**`Software Engineer/Computer Science Graduate`**
+**`Software Engineer`**
 
 <!-- Bio -->
 I am 22 year old passionate Softawre Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
