@@ -20,3 +20,5 @@ I have used a wide variety of different languages and frameworks, but these are 
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/Ac_X7ir_ddS8x291FI47WNRmp1Ss9wKVp-ivurt7x3w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtaWNv/bi01MTJ4NTEyLTR2/MmY1NWZuLnBuZw"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png"/>
+<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://vitejs.dev/logo.svg"/>
