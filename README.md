@@ -24,6 +24,9 @@ I have used a wide variety of different languages and frameworks, but these are 
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://vitejs.dev/logo.svg"/>
 <br/>
+
+---
+
 <p align="center">
      <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
 </p>
