@@ -10,7 +10,7 @@ I also have some more projects that I've built through work which I am happy (an
 <!-- Development Tool and Language Icons -->
 ### ⚒️ Languages and Tools of Familiarity
 I have used a wide variety of different languages and frameworks, but these are what I have been using the most as of late.  
-
+<div style="display:flex">
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/hal1PgQLBcgo3zcQQYtiz_ydmTsNkJXQp0CWmPklOc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhc2Ny/aXB0LWpzLWljb24t/NTEyeDUxMi1xM2ln/d2xuNi5wbmc"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/MD4jvIqyGS1_OGlLM9kgOJLw1Yd0ShQwj3kYsbtgW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
@@ -23,6 +23,7 @@ I have used a wide variety of different languages and frameworks, but these are 
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png"/>
 <img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://vitejs.dev/logo.svg"/>
+</div>
 <br/>
 
 ---
