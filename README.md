@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 <!-- Bio -->
-I am 22 year old passionate Softawre Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
+I am 22 year old passionate Software Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
 
 To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).  
 I also have some more projects that I've built through work which I am happy (and allowed) to share over on my other [account](https://github.com/dempseyt).
