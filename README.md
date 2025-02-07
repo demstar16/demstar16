@@ -3,31 +3,14 @@
 **`Software Engineer`**
 
 <!-- Bio -->
-I am 22 year old passionate Software Developer based in Western Australia, currently employed at JourneyOne. I am proficient in JavaScript and believe in clean code practices. I try my best to follow TDD principles and uphold myself to a high coding standard. Feel free to look around at some of the stuff that I have built over the years.
+I am software engineer proficient in JavaScript and functional programming. I've learnt many languages and love to work with teams providing value on projects. I am currently diving into the world of M365 professoinally and Godot4 game development personally.
 
-To get more of an idea about me as a developer check out my [website](https://www.d-sons.com/).  
-I also have some more projects that I've built through work which I am happy (and allowed) to share over on my other [account](https://github.com/dempseyt).
-<!-- Development Tool and Language Icons -->
-### ⚒️ Languages and Tools of Familiarity
-I have used a wide variety of different languages and frameworks, but these are what I have been using the most as of late.  
-<div style="display:flex">
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/hal1PgQLBcgo3zcQQYtiz_ydmTsNkJXQp0CWmPklOc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9qYXZhc2Ny/aXB0LWpzLWljb24t/NTEyeDUxMi1xM2ln/d2xuNi5wbmc"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/MD4jvIqyGS1_OGlLM9kgOJLw1Yd0ShQwj3kYsbtgW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC90eXBlc2Ny/aXB0LWljb24taWNv/bi01MTJ4NTEyLXlo/MHl1M3RhLnBuZw"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/CfgR-acI4VmrQjeAjP2B-GUnlRxxA7gE6NE31afksik/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MzA5YmNlZjEw/MTRjMGI1ZTRhOWEu/cG5n"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/eyr0SJnljR8jkHj9vJTdU0dx9FObWtxviui2GtJAvl4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/aDM1L3N0eWxlcy9j/b21tdW5pdHlJY29u/X2Zjbjh4eHY5N3Vp/MTEucG5n"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/7tOkuSADZSvs22p8AUqtMA8U-MXbwUOnMdcZYogTAuk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9iYXNoLWlj/b24tMjI0eDI1Ni1x/bzRhN2V4Ni5wbmc"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/uBUr9BZK3jBX-im5HyUDdiwOTfmhAPRK2X04aJVnbGk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjlm/aHB3MDY5Y3R0Mi5j/bG91ZGZyb250Lm5l/dC9pY29uL2ltYWdl/LzM4NzcxL3ByZXZp/ZXcuc3Zn"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://imgs.search.brave.com/Ac_X7ir_ddS8x291FI47WNRmp1Ss9wKVp-ivurt7x3w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hd3MtaWNv/bi01MTJ4NTEyLTR2/MmY1NWZuLnBuZw"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png"/>
-<img align="left" style="padding-right:30px; width:30px; height:30px;" src="https://vitejs.dev/logo.svg"/>
-</div>
-<br/>
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=demstar16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-<p align="center">
-     <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demstar16&theme=transparent">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=demstar16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://camo.githubusercontent.com/931c3330dd9496f5603824d9cdc3a9491571c6da661cc8a26cc3e98973bd5d3b/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" />
+
+<a href="https://www.linkedin.com/in/dempsey-thompson-b91614197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/dsons" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
