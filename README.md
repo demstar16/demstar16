@@ -1,16 +1,39 @@
-# 👨‍💻 Dempsey Thompson 
+![](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-**`Software Engineer`**
+# Dempsey Thompson
 
-<!-- Bio -->
-I am software engineer proficient in JavaScript and functional programming. I've learnt many languages and love to work with teams providing value on projects. I am currently diving into the world of M365 professoinally and Godot4 game development personally.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dempsey-thompson-b91614197/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?)](https://www.d-sons.com)
+![Location](https://img.shields.io/badge/Location-Perth,%20Australia-blueviolet?logo=google-maps)
 
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=demstar16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+## 🧑‍💻 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=demstar16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-<img src="https://camo.githubusercontent.com/931c3330dd9496f5603824d9cdc3a9491571c6da661cc8a26cc3e98973bd5d3b/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" />
+---
 
-<a href="https://www.linkedin.com/in/dempsey-thompson-b91614197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/dsons" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+## 🎸 About Me
+
+- 🏉 Rugby player
+- 🌊 Surfer
+- 🎸 Learning Guitar
+- 🍥 Anime fan
+- 🏃‍♂️ Fitness enthusiast
+
+---
+
+> “Progress isn’t loud — it’s the quiet stuff done consistently.”  
+> — Dempsey Thompson
+
+<br/>
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=demstar16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=demstar16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
