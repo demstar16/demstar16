@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/dempsey-thompson-b91614197/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?)](https://www.d-sons.com)
-![Location](https://img.shields.io/badge/Location-Perth,%20Australia-blueviolet?logo=google-maps)
+![Location](https://img.shields.io/badge/Location-Blackburn,%20England-blueviolet?logo=google-maps)
 
 ---
 
@@ -29,7 +29,6 @@
 ---
 
 > “Progress isn’t loud — it’s the quiet stuff done consistently.”  
-> — Dempsey Thompson
 
 <br/>
 
